@@ -14,15 +14,6 @@
 - **Statistical Analysis** — Identifying trends, correlations, and insights from healthcare datasets
 - **Data Visualization** — Creating compelling visualizations that tell meaningful stories from data
 
-## 🌐 Connect With Me:
-
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nikhilrao1696) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nr_Pendyala) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-rao-pendyala) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhilrao1696@gmail.com)
-
----
-
 # 💻 Tech Stack:
 
 **Data Science & Analytics:**
